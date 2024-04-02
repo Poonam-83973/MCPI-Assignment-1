@@ -2,7 +2,7 @@
  * uart.h
  *
  *  Created on: Apr 1, 2024
- *      Author: Nilesh
+ *      Author: Poonam
  */
 
 #ifndef UART_H_
