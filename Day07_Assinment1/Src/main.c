@@ -47,7 +47,7 @@ int main(void)
 
 	while(1) {
 
-		UartPuts("Enter your choice \r\n1.LED blue\r\n2.LED red\r\n3.LED Orange\r\n4.LED Green\r\n");
+		UartPuts("Enter your choice \r\n1.RED LED ON\r\n2.RED LED OFF\r\n3.BLUE LED ON\r\n4.BLUE LED OFF\r\n");
 		ch = UartGetch();
         switch(ch)
         {
